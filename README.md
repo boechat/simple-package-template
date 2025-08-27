@@ -1,4 +1,4 @@
-# package_name
+# Financas
 
 Description. 
 The package financas is used to:
