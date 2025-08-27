@@ -2,10 +2,10 @@
 
 Description. 
 The package financas is used to:
-		'''
-		- Storage information about one's wallet and it's operations
-		- Adding Values and Listing based on user's input
-		'''
+```
+- Storage information about one's wallet and it's operations
+- Adding Values and Listing based on user's input
+```
 
 ## Installation
 
