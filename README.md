@@ -1,16 +1,16 @@
 # package_name
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package financas is used to:
+		- Storage information about one's wallet and it's operations
+		- Adding Values and Listing based on user's input
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install package_name
+pip install financas
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+André Boechat
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
